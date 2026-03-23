@@ -225,9 +225,6 @@ A refined, multi-revenue-stream approach validated by market leaders:
 |------|------|-----------|
 | **Sergey Sigito** | Co-Founder, Product | Ex-Product Director @ Mamba (Eastern Europe's largest dating platform); scaled from 1M → 40M users; +142% ARPU growth |
 | **Maxim Shcheglov** | Co-Founder, Marketing | Founder of Promenad (North America); managed $100K+/mo ad budgets in Tier-1 markets |
-| **Sergey Zakharov** | ML & Computer Vision Expert | Specializes in emotion recognition and behavioral pattern modeling |
-| **Maxim** | No-Code Engineer | Rapid prototyping and MVP iteration specialist |
-| **Albina Sagieva** | Designer & Illustrator | UX/UI focused on emotional resonance and trust-building interfaces |
 
 ---
 
