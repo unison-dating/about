@@ -224,7 +224,8 @@ A refined, multi-revenue-stream approach validated by market leaders:
 | Name | Role | Background |
 |------|------|-----------|
 | **Sergey Sigito** | Co-Founder, Product | Ex-Product Director @ Mamba (Eastern Europe's largest dating platform); scaled from 1M → 40M users; +142% ARPU growth |
-| **Maxim Shcheglov** | Co-Founder, Marketing | Founder of Promenad (North America); managed $100K+/mo ad budgets in Tier-1 markets |
+| **Maksim Shcheglov** | Co-Founder, Marketing | Founder of Promenad (North America); managed $100K+/mo ad budgets in Tier-1 markets |
+| **Boris Soldatov** | Co-Founder, Marketing | Lead of Pure (Woorldwide); Tier-1 app |
 
 ---
 
